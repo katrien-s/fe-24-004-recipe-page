@@ -1,0 +1,54 @@
+/* CSS Reset */
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+	font-family: inherit;
+}
+
+.img {
+	max-width: 100%;
+	height: auto;
+	vertical-align: middle;
+	font-style: italic;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+/* Variables */
+:root {
+	--ff-serif: 'Young Serif', serif;
+	--ff-sans-serif: 'Outfit', sans-serif;
+}
+
+/* General Styles */
+html {
+}
+body {
+}
+.container {
+	width: max(95vw, 46rem);
+	border-radius: 1.5rem;
+	margin-inline: auto;
+}
+
+/* Utility */
+
+/* Footer */
+
+.attribution {
+	font-size: 11px;
+	text-align: center;
+}
+.attribution a {
+	color: hsl(228, 45%, 44%);
+}
