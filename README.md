@@ -76,6 +76,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 - [Sensible Defaults for Your img Elements](https://twitter.com/csswizardry/status/1717841334462005661)
 - [A better image reset for your CSS](https://www.youtube.com/watch?v=345V2MU3E_w)
+- [Everything You Need to Know About the Gap After the List Marker](https://css-tricks.com/everything-you-need-to-know-about-the-gap-after-the-list-marker/)
 
 ## Author
 
