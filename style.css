@@ -189,9 +189,14 @@ ul li strong {
 	margin-bottom: 1.5rem;
 }
 
+.nutrition table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
 .nutrition table td {
 	padding-left: 2rem;
-  padding-block: 0.75rem;
+	padding-block: 0.75rem;
 }
 
 .nutrition table td:nth-of-type(2) {
@@ -200,12 +205,7 @@ ul li strong {
 	padding-left: 1rem;
 }
 
-table {
-  border-collapse: collapse;
-	width: 100%;
-}
-
-table tr:not(:last-of-type) {
+.nutrition table tr:not(:last-of-type) {
 	border-bottom: 1px solid var(--clr-neutral-400);
 }
 
