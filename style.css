@@ -95,7 +95,7 @@ h2 {
 	margin-bottom: 1.5rem;
 }
 
-h3 {
+.preparation-time {
 	font-family: var(--ff-sans-serif);
 	font-size: 1.5rem;
 	font-weight: 600;
